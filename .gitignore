@@ -1,0 +1,9 @@
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local reports and scratch material
+outputs/
+work/
